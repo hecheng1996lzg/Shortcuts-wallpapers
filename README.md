@@ -1,6 +1,6 @@
 # Shortcuts-wallpapers
 ###快捷指令随机更换墙纸，来自unsplash的随机图片
-1. 通过https://unsplash.com/oauth/applications注册开发者
+1. 注册开发者，通过：https://unsplash.com/oauth/applications
 2. 在Your apps页面创建应用(New Application)
 3. 进入上一步创建的应用记录Keys栏目下的Access Key的值
 4. 替换{{Access Key}}的值为上一步记录的Access Key
